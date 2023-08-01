@@ -32,7 +32,7 @@
 |<sub>water+produced</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>sun+essence</sub>|  
 |आक|वि|||||||||||||वामु|प्रशु|प्रव|नशु|  
 |<sub>आश्मकंसम्</sub>|<sub>विडूरम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>वायुमुख्यम्</sub>|<sub>प्राणशुषिलम्</sub>|<sub>प्रवाहशुषिलम्</sub>|<sub>नवशुषिलम्</sub>|  
-|<sub>of stone+metal</sub>|<sub>berylium</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>Air+main</sub>|<sub>life+gas</sub>|<sub>flow+gas</sub>|<sub>new+gas</sub>|  
+|<sub>of stone+metal</sub>|<sub>berylium</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>air+main</sub>|<sub>life+gas</sub>|<sub>flow+gas</sub>|<sub>new+gas</sub>|  
 |||||||||||||||||||  
 |<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|  
 |<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|  
