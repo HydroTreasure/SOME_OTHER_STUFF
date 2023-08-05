@@ -28,7 +28,7 @@
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|  
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
 |उज|||||||||||||||||सूत्व|  
-|<sub>उदकजन्यम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>सूर्यतत्वम्</sub>|  
+|<sub>उदकजन्यम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>सूर्यतत्त्वम्</sub>|  
 |<sub>water+produced</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>sun+essence</sub>|  
 |आक|वि|||||||||||टक|कुय|वामु|प्रशु|प्रव|नशु|  
 |<sub>आश्मकंसम्</sub>|<sub>विडूरम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>टङ्ककंसम्</sub>|<sub>कौकिलीयम्</sub>|<sub>वायुमुख्यम्</sub>|<sub>प्राणशुषिलम्</sub>|<sub>प्रवाहशुषिलम्</sub>|<sub>नवशुषिलम्</sub>|  
