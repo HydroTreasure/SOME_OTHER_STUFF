@@ -7,7 +7,7 @@
 |<sub>उदजनः</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>सूर्यातिः/यानातिः</sub>|  
 |ल|वि|||||||||||ट|प्र|भू|ज|त|शि|  
 |<sub>लघ्वातुः</sub>|<sub>विडूरम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>टाङ्कणः</sub>|<sub>प्राङ्गारः</sub>|<sub>भूयातिः</sub>|<sub>जारकम्</sub>|<sub>तरस्विनी</sub>|<sub>शिथिरातिः</sub>|  
-|क्ष|भ्र|||||||||||स्फ|सै|भ|शु|नी|मम्|  
+|क्ष|भ्र|||||||||||स्फ|सै|भ|शु|नी|मं(मम्)|  
 |<sub>क्षारातुः</sub>|<sub>भ्राजातुः</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>स्फटयातुः</sub>|<sub>सैकता</sub>|<sub>भास्वरः</sub>|<sub>शुल्वारिः</sub>|<sub>नीरजी</sub>|<sub>मन्दातिः</sub>|  
 |द|चू||||||||||||||||ली|  
 |<sub>दहातुः</sub>|<sub>चूर्णातुः</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>लीनातिः</sub>|  
