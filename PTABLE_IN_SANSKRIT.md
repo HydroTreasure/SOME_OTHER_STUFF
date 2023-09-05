@@ -30,13 +30,13 @@
 |उज|||||||||||||||||सूत्व|  
 |<sub>उदकजन्यम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>सूर्यतत्त्वम्</sub>|  
 |<sub>water+produced</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>sun+essence</sub>|  
-|आक|विट्|||||||||||टक|कुय|वामु|प्रशु|प्रव|नशु|  
+|आस|विट्|||||||||||टक्|कुय|वामु|प्रश|प्रव|नश्|  
 |<sub>आश्मकंसम्</sub>|<sub>विडूरम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>टङ्ककंसम्</sub>|<sub>कौकिलीयम्</sub>|<sub>वायुमुख्यम्</sub>|<sub>प्राणशुषिलम्</sub>|<sub>प्रवाहशुषिलम्</sub>|<sub>नवशुषिलम्</sub>|  
 |<sub>of stone+metal</sub>|<sub>berylium</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>borax+metal</sub>|<sub>of coal</sub>|<sub>air+main</sub>|<sub>life+gas</sub>|<sub>flow+gas</sub>|<sub>new+gas</sub>|  
-|विज|मश|||||||||||स्फट्|सित|भाभ|गक|ख्ल|आय|  
+|विज|मश|||||||||||स्फट्|सित|भाब्|गक्|ख्ल|आय|  
 |<sub>विक्षारजन्यम्</sub>|<sub>माग्नेश्यम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>स्फटीय(न्)</sub>|<sub>सिकताङ्गम्</sub>|<sub>भास्वद्भारि(न्)</sub>|<sub>गन्धकम्</sub>|<sub>खाद्यलवणशुषिलम्</sub>|<sub>आलस्यशुषिलम्</sub>|  
 |<sub>soda+produced</sub>|<sub>Magnesia(माग्नेश्या)+अण्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>aluminium</sub>|<sub>sand+component</sub>|<sub>light+bearer</sub>|<sub>sulphur</sub>|<sub>food+table salt+gas</sub>|<sub>idle+gas</sub>|  
-|सक|छु||||||||||||||||मूशु|  
+|सजि|छौ||||||||||||||||मौ|  
 |<sub>सर्जिकंसम्</sub>|<sub>छौरेयम्</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>मूकशुषिलम्</sub>|  
 |<sub>potash+metal</sub>|<sub>calcium</sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub></sub>|<sub>silent+gas</sub>|  
 |||||||||||||||||||  
